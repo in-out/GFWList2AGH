@@ -116,7 +116,6 @@ function GenerateRules() {
                 # "https://dns.alidns.com:443/dns-query"
                 # "https://dns.ipv6dns.com:443/dns-query"
                 # "https://doh.360.cn:443/dns-query"
-                "quic://z.iqiq.io"
                 "https://doh.pub:443/dns-query"
                 "tls://b.iqiq.io:853"
                 # "tls://dns.alidns.com:853"
@@ -126,8 +125,9 @@ function GenerateRules() {
             )
             foreign_dns=(
                 # "https://dns.google:443/dns-query"
+                "quic://z.iqiq.io"
                 "https://dns.opendns.com:443/dns-query"
-                "https://a.passcloud.xyz/dns-query"
+                #"https://a.passcloud.xyz/dns-query"
                 # "https://dns11.quad9.net:443/dns-query"
                 # "https://dns64.dns.google:443/dns-query"
                 # "tls://dns.google:853"
