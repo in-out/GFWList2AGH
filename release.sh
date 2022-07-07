@@ -125,7 +125,8 @@ function GenerateRules() {
             )
             foreign_dns=(
                 # "https://dns.google:443/dns-query"
-                "quic://z.iqiq.io"
+                #"quic://z.iqiq.io"
+                "quic://a.passcloud.xyz:784"
                 "https://dns.opendns.com:443/dns-query"
                 #"https://a.passcloud.xyz/dns-query"
                 # "https://dns11.quad9.net:443/dns-query"
