@@ -119,10 +119,11 @@ function GenerateRules() {
                 # "https://doh.360.cn:443/dns-query"
                 #"quic://b.iqiq.io:784"
                 #"tls://b.iqiq.io:853"
-                #"tls://1.12.12.12:853"
-                #"tls://223.5.5.5:853"
+                "tls://1.12.12.12:853"
+                "tls://223.5.5.5:853"
+                "https://223.5.5.5/dns-query"
                 "https://1.12.12.12/dns-query"
-                “h3://dns.alidns.com/dns-query”
+                #“h3://dns.alidns.com/dns-query”
                 #"https://doh.pub:443/dns-query"
                 # "tls://dns.alidns.com:853"
                 # "tls://dns.ipv6dns.com:853"
