@@ -152,7 +152,7 @@ function GenerateRules() {
             function GenerateRulesHeader() {
                 # customize code
                 echo -e "[/alipay.com/aliyun.com.com/taobao.com/tmall.com/xianyuso.com/alibabacloud.com/weibo.com/weibo.cn/amap.com/uc.cn/1688.com/koubei.com/ele.me/alibaba.com/etao.com/fliggy.com/xiami.com/taopiaopiao.com/youku.com/dingtalk.com/cainiao.com/guoguo-app.com/tudou.com/mybank.cn/cnzz.com/umeng.com/alicdn.com/tanx.com/mmstat.com/ykimg.com/sinaimg.cn/sinajs.cn/meizu.cn/meizu.com/mzres.com/aliyuncs.com/ucweb.com/flyme.cn/flyme.com/aliyuncs.com/sina.cn/weibocdn.com/]https://223.5.5.5/dns-query" >> "${file_path}"
-                echo -e "[/weixin.com/qq.com/qzoneapp.com/qqgameapp.com/qqopenapp.com/pengyou.com/tencent.com/sogou.com/maoyan.com/gtimg.com/qpic.cn/sogoucdn.com/qlogo.cn/gtimg.cn/gdtimg.com/]https://1.12.12.12/dns-query" >> "${file_path}"
+                echo -e "[/foxmail.com/gtimg.com/idqqimg.com/igamecj.com/myapp.com/myqcloud.com/qq.com/qqmail.com/qqurl.com/smtcdns.com/smtcdns.net/soso.com/tencent-cloud.net/tencent.com/tencentmind.com/tenpay.com/wechat.com/weixin.com/weiyun.com/v.smtcdns.com/vv.video.qq.com/qzoneapp.com/qqgameapp.com/qqopenapp.com/pengyou.com/sogou.com/maoyan.com/qpic.cn/sogoucdn.com/qlogo.cn/gtimg.cn/gdtimg.com/]https://1.12.12.12/dns-query" >> "${file_path}"
                 echo -e "[/baidu.com/iqiyi.com/baidupcs.com/bdstatic.com/91.com/iqiyipic.com/bdimg.com/baifubao.com/qingting.fm/duxiaoman.com/qy.net/bcebos.com/]180.76.76.76" >> "${file_path}"
                 echo -n "[/" >> "${file_path}"
             }
